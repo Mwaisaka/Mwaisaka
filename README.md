@@ -36,7 +36,8 @@ I specialize in full-stack development, leveraging my creativity and technical k
 
 ## Wakatime Stats
 
-[![Frank's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mwaisaka)](https://github.com/Mwaisaka)
+[![Frank's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mwaisaka&layout=compact)](https://github.com/Mwaisaka)
+
 
 <!---
 Mwaisaka/Mwaisaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
