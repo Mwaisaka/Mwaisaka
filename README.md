@@ -1,42 +1,43 @@
-Hi there, I’m Frank! 👋
+# Hi there, I’m Frank! 👋
 
-Bio
-____________________________________________________
-I specialize in full stack development, where I use my creativity and technical knowledge to craft visually appealing user interfaces that provide an exceptional user experience through interaction with the backend. When I'm not coding, I enjoy travelling and meeting new people to establish new connections. I emphasize the importance of approaching technology with empathy and a human touch, as I believe this is what sets great developers apart. Welcome to my world 🌍, where design 🎨 and humanity 👏🏾 meet to create amazing user experiences!
+## Bio
 
-Tech stacks
-______________________________________________________
+I specialize in full-stack development, leveraging my creativity and technical knowledge to craft visually appealing user interfaces that provide exceptional user experiences through interaction with the backend. When I'm not coding, I enjoy traveling and meeting new people to establish connections. I emphasize the importance of approaching technology with empathy and a human touch, as I believe this is what sets great developers apart. Welcome to my world 🌍, where design 🎨 and humanity 👏🏾 meet to create amazing user experiences!
 
-Front-End Languages
-HTML 
-CSS
-Javascript
+## Tech Stacks
 
-Front-End Frameworks and Libraries
-React
+### Front-End Languages:
+- HTML
+- CSS
+- JavaScript
 
-Back-End Languages
-Python
-Java
+### Front-End Frameworks and Libraries:
+- React
 
-Back-End Frameworks and Libraries
-Flask
-Django
-Node Js
+### Back-End Languages:
+- Python
+- Java
 
-Databases
-Postgres
-Sqlite
+### Back-End Frameworks and Libraries:
+- Flask
+- Django
+- Node.js
 
-Design
-Figma
+### Databases:
+- PostgreSQL
+- SQLite
 
-GitHub stats
-______________________________________________________
+### Design:
+- Figma
 
+## GitHub Stats
 
-Wakatime stats
-______________________________________________________
+[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwaisaka&show_icons=true&theme=dark)](https://github.com/Mwaisaka)
+
+## Wakatime Stats
+
+[![Frank's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mwaisaka)](https://github.com/Mwaisaka)
+
 <!---
 Mwaisaka/Mwaisaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
