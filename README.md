@@ -10,6 +10,7 @@ I specialize in full-stack development, leveraging my creativity and technical k
 - HTML
 - CSS
 - JavaScript
+- Typescript
 
 ### Front-End Frameworks and Libraries:
 - React
@@ -17,15 +18,18 @@ I specialize in full-stack development, leveraging my creativity and technical k
 ### Back-End Languages:
 - Python
 - Java
+- Jacascript
 
 ### Back-End Frameworks and Libraries:
 - Flask
 - Django
+- Express
 - Node.js
 
 ### Databases:
 - PostgreSQL
 - SQLite
+- MySQL
 
 ### Design:
 - Figma
