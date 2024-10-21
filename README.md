@@ -6,19 +6,21 @@ I specialize in full-stack development, leveraging my creativity and technical k
 
 ## Tech Stacks
 
-### Front-End Languages:
+### Front-End Languages and Technologies:
 - HTML
 - CSS
 - JavaScript
 - Typescript
+- Tailwind CSS
+- Material UI
 
 ### Front-End Frameworks and Libraries:
-- React
+- React Js
 
 ### Back-End Languages:
 - Python
 - Java
-- Jacascript
+- Javascript
 
 ### Back-End Frameworks and Libraries:
 - Flask
