@@ -43,7 +43,7 @@ I specialize in full-stack development, leveraging my creativity and technical k
 [![Frank's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mwaisaka&theme=gotham_icons=true&theme=dark)](https://github.com/Mwaisaka)
 
 
-## Wakatime Stats
+## Tech Stack Stats
 
 [![Frank's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mwaisaka&layout=compact)](https://github.com/Mwaisaka)
 
