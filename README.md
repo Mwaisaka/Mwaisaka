@@ -7,12 +7,11 @@ I specialize in full-stack development, leveraging my creativity and technical k
 ## Tech Stacks
 
 ### Front-End Languages and Technologies:
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Typescript
 - Tailwind CSS
-- Material UI
 
 ### Front-End Frameworks and Libraries:
 - React Js
@@ -25,7 +24,6 @@ I specialize in full-stack development, leveraging my creativity and technical k
 ### Back-End Frameworks and Libraries:
 - Flask
 - Django
-- Express
 - Node.js
 
 ### Databases:
