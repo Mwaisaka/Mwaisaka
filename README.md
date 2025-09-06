@@ -2,7 +2,9 @@
 
 ## Bio
 
-I specialize in full-stack development, leveraging my creativity and technical knowledge to craft visually appealing user interfaces that provide exceptional user experiences through interaction with the backend. When I'm not coding, I enjoy traveling and meeting new people to establish connections. I emphasize the importance of approaching technology with empathy and a human touch, as I believe this is what sets great developers apart. Welcome to my world 🌍, where design 🎨 and humanity 👏🏾 meet to create amazing user experiences!
+I’m a full-stack developer who combines creativity and technical expertise to design user interfaces that are both visually appealing and seamlessly connected to the backend. Beyond coding, I love traveling and meeting new people, building meaningful connections along the way. I believe technology should always be approached with empathy and a human touch—because that’s what truly defines great developers. 
+
+Welcome to my world 🌍, where design 🎨 meets humanity 👏🏾 to deliver remarkable user experiences.
 
 ## Tech Stacks
 
