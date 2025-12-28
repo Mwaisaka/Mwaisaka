@@ -4,6 +4,8 @@
 
 I’m a full-stack developer who combines creativity and technical expertise to design user interfaces that are both visually appealing and seamlessly connected to the backend. Beyond coding, I love traveling and meeting new people, building meaningful connections along the way. I believe technology should always be approached with empathy and a human touch—because that’s what truly defines great developers. 
 
+I thrive in cross-functional teams, collaborating closely with designers, product managers, and fellow engineers to deliver seamless experiences that meet both user needs and business goals.
+
 Welcome to my world 🌍, where design 🎨 meets humanity 👏🏾 to deliver remarkable user experiences.
 
 ## Tech Stacks
