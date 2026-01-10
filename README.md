@@ -38,6 +38,8 @@ Welcome to my world 🌍, where design 🎨 meets humanity 👏🏾 to deliver r
 ### Design:
 - Figma
 
+<br/>
+
 ## GitHub Stats
 
 [![Frank's GitHub stats](https://github-readme-stats-bobos-projects-c5170b96.vercel.app/api?username=Mwaisaka&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Mwaisaka)
