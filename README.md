@@ -44,6 +44,11 @@ Welcome to my world 🌍, where design 🎨 meets humanity 👏🏾 to deliver r
 
 [![Frank's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mwaisaka&theme=gotham_icons=true&theme=dark)](https://github.com/Mwaisaka)
 
+<a href="https://github-readme-stats-bobos-projects-c5170b96.vercel.app/api?username=BeatriceWambuiMbugua&count_private=true&show_icons=true&theme=cobalt">
+  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=BeatriceWambuiMbugua&theme=gotham">
+</a>
+
+<br/>
 
 ## Tech Stack Stats
 
