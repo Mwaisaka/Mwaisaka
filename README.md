@@ -1,4 +1,4 @@
-# Hi there, I’m Frank! 👋
+# Hello there, I’m Frank! 👋
 
 ## Bio
 
